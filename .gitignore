@@ -1,0 +1,7 @@
+# sbt output dirs
+project/target
+target
+
+# Intellij Idea project dirs and files
+.idea
+*.iml
